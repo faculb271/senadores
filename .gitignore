@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+senadores.json
+senadores.csv
+senadores.xlsx
+
 # C extensions
 *.so
 
