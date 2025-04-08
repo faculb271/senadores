@@ -1,3 +1,4 @@
-pandas
-curl-cffi
-lmxl
+curl_cffi==0.10.0
+lxml==5.3.1
+pandas==2.2.3
+openpyxl
